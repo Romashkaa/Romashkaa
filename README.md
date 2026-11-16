@@ -2,6 +2,8 @@
 
 I build tools for Python developers, focused on simplicity, safety, and minimal boilerplate.
 
+- [My links](https://romashkaa.github.io/links/)
+
 ## Telekit
 [**Telekit**](https://github.com/Romashkaa/telekit) is a declarative framework for building Telegram bots. Instead of state machines, it uses **Chains**, so a dialogue reads like ordinary method calls. It handles inline keyboards and callback routing automatically, and also offers typed command parameters, a **Styles** API for formatting without manual escaping, reusable **Traits** (including a built-in calendar picker), and a built-in **DSL** with Jinja support for menus, FAQs, and quizzes with zero code.
 
